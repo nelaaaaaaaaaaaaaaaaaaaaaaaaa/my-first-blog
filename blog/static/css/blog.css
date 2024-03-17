@@ -1,3 +1,8 @@
 h1 a, h2 a {
     color: #fc8ddc
+    font-family: 'Sigmar One';
+}
+
+body {
+    padding-left: 15px;
 }
